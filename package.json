@@ -1,0 +1,10 @@
+{
+  "name": "round-robin-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "john",
+  "license": "MIT",
+  "dependencies": {
+    "roundrobin": "^1.0.3"
+  }
+}

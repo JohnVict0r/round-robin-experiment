@@ -1,0 +1,45 @@
+Grupo com 3 atletas
+Confrontos:
+Atleta 02 x Atleta 03
+Atleta 01 x Atleta 03
+Atleta 01 x Atleta 02
+
+Grupo com 4 atletas
+Confrontos:
+Atleta 01 x Atleta 04
+Atleta 02 x Atleta 03
+Atleta 01 x Atleta 03
+Atleta 04 x Atleta 02
+Atleta 01 x Atleta 02
+Atleta 03 x Atleta 04
+
+Grupo com 5 atletas
+Confrontos:
+Atleta 02 x Atleta 05
+Atleta 03 x Atleta 04
+Atleta 01 x Atleta 05
+Atleta 02 x Atleta 03
+Atleta 01 x Atleta 04
+Atleta 05 x Atleta 03
+Atleta 01 x Atleta 03
+Atleta 04 x Atleta 02
+Atleta 01 x Atleta 02
+Atleta 04 x Atleta 05
+
+Grupo com 6 atletas
+Confrontos:
+Atleta 01 x Atleta 06
+Atleta 02 x Atleta 05
+Atleta 03 x Atleta 04
+Atleta 01 x Atleta 05
+Atleta 06 x Atleta 04
+Atleta 02 x Atleta 03
+Atleta 01 x Atleta 04
+Atleta 05 x Atleta 03
+Atleta 06 x Atleta 02
+Atleta 01 x Atleta 03
+Atleta 04 x Atleta 02
+Atleta 05 x Atleta 06
+Atleta 01 x Atleta 02
+Atleta 03 x Atleta 06
+Atleta 04 x Atleta 05
